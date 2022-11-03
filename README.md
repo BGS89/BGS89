@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761174ac748dc951a79536411d794faa853781d3a42b&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **improving my Javascript**
 
